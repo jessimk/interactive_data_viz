@@ -1,4 +1,7 @@
-# interactive_data_viz
+# Interactive Data Viz with Jupyter and Python
+## Exploring Interactive Data Viz with Mobi Bike Share Data 🚲
+
+
 A home for my interactive data viz slides [currently a work in progress]...
 
 Slides are in this Jupyter notebook and can be viewed best with nbviewer [here](https://nbviewer.jupyter.org/github/jessimk/interactive_data_viz/blob/master/Jupyter_Interactive_Data_Viz.ipynb) with all of the interactive awesome.
