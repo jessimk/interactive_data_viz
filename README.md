@@ -5,7 +5,12 @@
 A home for my interactive data viz slides [currently a work in progress]...
 
 ### Notebook & Slides
-Slides are in this [Jupyter notebook](https://github.com/jessimk/interactive_data_viz/blob/master/Jupyter_Interactive_Data_Viz.ipynb) and can be viewed best with [nbviewer here](https://nbviewer.jupyter.org/github/jessimk/interactive_data_viz/blob/master/Jupyter_Interactive_Data_Viz.ipynb?flush_cache=true) with all of the interactive awesome.
+
+An interactive and executable version of these slides are available in a Jupyter notebook via Binder through the button below:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ttimbers/interactive_data_viz/master?filepath=Jupyter_Interactive_Data_Viz.ipynb)
+
+Source slides are in this [Jupyter notebook](https://github.com/jessimk/interactive_data_viz/blob/master/Jupyter_Interactive_Data_Viz.ipynb) and can also be viewed best with [nbviewer here](https://nbviewer.jupyter.org/github/jessimk/interactive_data_viz/blob/master/Jupyter_Interactive_Data_Viz.ipynb?flush_cache=true).
 
 ### Data
 Data for this presentation is a subset of [Mobi's June 2018 system data](https://www.mobibikes.ca/en/system-data). 
