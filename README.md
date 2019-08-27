@@ -4,6 +4,8 @@
 
 A home for my interactive data viz presentation for [UBC JupyterDay 2019](https://github.com/patrickwalls/jupyterday2019). 
 
+<img src="staticawesome.png" width=375 ></img>  <img src="interactive_awesome.gif" width=400></img>   
+   
 ### Notebook & Slides
 
 An interactive and executable version of these slides are available in a Jupyter notebook via Binder through the button below:
