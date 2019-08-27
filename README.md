@@ -21,6 +21,11 @@ I've also calculated a peak trip departure hour for each station, based on June 
 
 The data for the presentation can be found [here](https://raw.githubusercontent.com/jessimk/interactive_data_viz/master/mobi_data_presentation_subset.csv). 
 
-### Thank Yous
+### Land Acknowledgement
+I discuss geospatial context and geospatial data so I also need to acknowledge that my work explores and takes place on the unceded lands of the Musqueam, Squamish, and Tsleil-Waututh nations. 
 
-I'd like to acknowledge and thank [Dr. Tiffany Timbers](https://github.com/ttimbers) for their awesome advice as I prepared this presentation. 🎉 
+### Thank Yous 
+- [Tiffany Timbers](https://github.com/ttimbers), [Reka Solymosi](https://github.com/maczokni) for recommending Binder & other advice 🎉 
+
+- [Patrick Walls](https://github.com/patrickwalls) for organizing JupyterDay 2019.
+
