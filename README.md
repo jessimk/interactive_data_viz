@@ -1,8 +1,8 @@
-# Interactive Data Viz with Jupyter and Python
+# Interactive Data Viz with Jupyter and Python  
+
 ## Exploring Interactive Data Viz with Mobi Bike Share Data 🚲
 
-
-A home for my interactive data viz slides [currently a work in progress]...
+A home for my interactive data viz presentation for [UBC JupyterDay 2019](https://github.com/patrickwalls/jupyterday2019). 
 
 ### Notebook & Slides
 
@@ -19,8 +19,8 @@ I've compiled and added station geolocation for the purpose of this presentation
 
 I've also calculated a peak trip departure hour for each station, based on June 2018 trip data. This is basically just the mode 'hour', or the most frequently occurring departure hour in the June 2018 data set per station.
 
-The data for the presentation can be found [here](https://raw.githubusercontent.com/jessimk/interactive_data_viz/master/mobi_data_presentation_subset.csv).
+The data for the presentation can be found [here](https://raw.githubusercontent.com/jessimk/interactive_data_viz/master/mobi_data_presentation_subset.csv). 
 
 ### Thank Yous
 
-I'd like to acknowledge and thank [Dr. Tiffany Timbers](https://github.com/ttimbers) for their support with this presentation. 🎉 
+I'd like to acknowledge and thank [Dr. Tiffany Timbers](https://github.com/ttimbers) for their awesome advice as I prepared this presentation. 🎉 
